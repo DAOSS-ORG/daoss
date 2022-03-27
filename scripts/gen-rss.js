@@ -6,11 +6,11 @@ const matter = require('gray-matter')
 // @TODO: for now let's generate with all posts, unsorted
 async function generate() {
   const feed = new RSS({
-    title: 'Shu Ding',
-    site_url: 'https://shud.in',
-    feed_url: 'https://shud.in/feed.xml',
+    title: 'DAOSS',
+    site_url: 'https://daoss.org',
+    feed_url: 'https://daoss.org/feed.xml',
   })
-  
+
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
 
   await Promise.all(posts.map(async name => {

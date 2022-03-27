@@ -2,7 +2,7 @@
   "name": "site",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Tim Pechersky <t@peersky.xyz>",
   "license": "MIT",
   "scripts": {
     "dev": "next",

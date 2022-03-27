@@ -4,15 +4,15 @@ export default {
   footer: (
     <div>
       <hr />
-      <a href="https://twitter.com/shuding_" target="_blank">
+      <a href="https://twitter.com/spectral_surf" target="_blank">
         Twitter
       </a>{" "}
       ·{" "}
-      <a href="https://github.com/shuding" target="_blank">
+      <a href="https://github.com/guildos" target="_blank">
         GitHub
       </a>{" "}
       ·{" "}
-      <a href="https://instagram.com/_shuding" target="_blank">
+      <a href="https://instagram.com/" target="_blank">
         Instagram
       </a>{" "}
       ·{" "}
@@ -26,7 +26,7 @@ export default {
         >
           CC BY-NC 4.0
         </abbr>{" "}
-        <time>{YEAR}</time> © Shu Ding.
+        <time>{YEAR}</time> © DAOSS.
         <a href="/feed.xml">RSS</a>
         <style jsx>{`
           a {

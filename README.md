@@ -1,5 +1,9 @@
-# shud.in
+# DAOSS
 
-I decided to switch back to raw Markdown files for blogging. 
+Decentralized\
+Autonomious\
+Open\
+Source\
+Software
 
-Built with [Nextra](https://github.com/shuding/nextra).
+Organization
