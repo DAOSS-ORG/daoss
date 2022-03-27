@@ -16,9 +16,6 @@ export default {
         Instagram
       </a>{" "}
       ·{" "}
-      <a href="mailto:g@shud.in" target="_blank">
-        g@shud.in
-      </a>
       <small style={{ display: "block", marginTop: "8rem" }}>
         <abbr
           title="This site and all its content are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
